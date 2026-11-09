@@ -1,0 +1,52 @@
+product,hs_code,category,country,iso2,year,import_value_usd,import_quantity_tonnes,avg_price_usd_tonne,competition_index
+Black Pepper,090411,Spices,United States,US,2021,42000000,12000,3500,72
+Black Pepper,090411,Spices,United States,US,2022,45500000,12500,3640,74
+Black Pepper,090411,Spices,United States,US,2023,51000000,13700,3720,75
+Black Pepper,090411,Spices,Germany,DE,2021,18000000,5100,3529,55
+Black Pepper,090411,Spices,Germany,DE,2022,20500000,5600,3660,53
+Black Pepper,090411,Spices,Germany,DE,2023,24000000,6300,3809,52
+Black Pepper,090411,Spices,United Arab Emirates,AE,2021,12000000,3900,3077,42
+Black Pepper,090411,Spices,United Arab Emirates,AE,2022,14500000,4400,3295,40
+Black Pepper,090411,Spices,United Arab Emirates,AE,2023,17000000,5000,3400,39
+Turmeric Powder,091030,Spices,United States,US,2021,15000000,7000,2143,60
+Turmeric Powder,091030,Spices,United States,US,2022,17200000,7600,2263,61
+Turmeric Powder,091030,Spices,United States,US,2023,19800000,8400,2357,59
+Turmeric Powder,091030,Spices,United Kingdom,GB,2021,9000000,4200,2143,45
+Turmeric Powder,091030,Spices,United Kingdom,GB,2022,10400000,4700,2213,44
+Turmeric Powder,091030,Spices,United Kingdom,GB,2023,12200000,5300,2302,43
+Turmeric Powder,091030,Spices,United Arab Emirates,AE,2021,8000000,3800,2105,38
+Turmeric Powder,091030,Spices,United Arab Emirates,AE,2022,9200000,4100,2244,37
+Turmeric Powder,091030,Spices,United Arab Emirates,AE,2023,10800000,4700,2298,36
+Basmati Rice,100630,Rice,Saudi Arabia,SA,2021,68000000,180000,378,65
+Basmati Rice,100630,Rice,Saudi Arabia,SA,2022,72000000,185000,389,67
+Basmati Rice,100630,Rice,Saudi Arabia,SA,2023,81000000,199000,407,68
+Basmati Rice,100630,Rice,United Arab Emirates,AE,2021,35000000,92000,380,52
+Basmati Rice,100630,Rice,United Arab Emirates,AE,2022,39000000,99000,394,50
+Basmati Rice,100630,Rice,United Arab Emirates,AE,2023,44000000,108000,407,49
+Basmati Rice,100630,Rice,United States,US,2021,25000000,60000,417,43
+Basmati Rice,100630,Rice,United States,US,2022,28000000,65000,431,42
+Basmati Rice,100630,Rice,United States,US,2023,32000000,72000,444,41
+Cardamom,090831,Spices,Saudi Arabia,SA,2021,28000000,3500,8000,70
+Cardamom,090831,Spices,Saudi Arabia,SA,2022,31000000,3700,8378,68
+Cardamom,090831,Spices,Saudi Arabia,SA,2023,36000000,4100,8780,66
+Cardamom,090831,Spices,Germany,DE,2021,8000000,1100,7273,40
+Cardamom,090831,Spices,Germany,DE,2022,9300000,1250,7440,39
+Cardamom,090831,Spices,Germany,DE,2023,11000000,1400,7857,38
+Cinnamon,090611,Spices,United States,US,2021,22000000,9000,2444,62
+Cinnamon,090611,Spices,United States,US,2022,25000000,9700,2577,61
+Cinnamon,090611,Spices,United States,US,2023,28500000,10500,2714,60
+Cinnamon,090611,Spices,Germany,DE,2021,12000000,5000,2400,44
+Cinnamon,090611,Spices,Germany,DE,2022,13800000,5500,2509,43
+Cinnamon,090611,Spices,Germany,DE,2023,16000000,6200,2581,42
+Red Chilli,090421,Spices,United States,US,2021,19000000,10000,1900,57
+Red Chilli,090421,Spices,United States,US,2022,21500000,10800,1991,58
+Red Chilli,090421,Spices,United States,US,2023,24500000,11900,2059,56
+Red Chilli,090421,Spices,United Kingdom,GB,2021,10000000,5200,1923,43
+Red Chilli,090421,Spices,United Kingdom,GB,2022,11500000,5700,2018,42
+Red Chilli,090421,Spices,United Kingdom,GB,2023,13200000,6400,2063,41
+Cloves,090710,Spices,United States,US,2021,13000000,3200,4063,50
+Cloves,090710,Spices,United States,US,2022,14800000,3500,4229,49
+Cloves,090710,Spices,United States,US,2023,17000000,3900,4359,48
+Dry Ginger,091011,Spices,United Kingdom,GB,2021,7000000,4000,1750,35
+Dry Ginger,091011,Spices,United Kingdom,GB,2022,8100000,4400,1841,34
+Dry Ginger,091011,Spices,United Kingdom,GB,2023,9600000,5000,1920,33
